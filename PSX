@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/46tro/SnowmanHub/main/PSX"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/46tro/AutoFarmPSX/main/AutoFarm"))()
